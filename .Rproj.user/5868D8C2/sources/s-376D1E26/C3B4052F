@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528096144050.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C3B4052F",
+    "lastKnownWriteTime" : 1528097496,
+    "last_content_update" : 1528097496,
+    "path" : "~/Downloads/day-06/elliptical/man/ellipse_perimeter.Rd",
+    "project_path" : "man/ellipse_perimeter.Rd",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528095685150.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AA8AE04A",
+    "lastKnownWriteTime" : 1528097323,
+    "last_content_update" : 1528097323469,
+    "path" : "~/Downloads/day-06/elliptical/R/perimeter R.R",
+    "project_path" : "R/perimeter R.R",
+    "properties" : {
+        "cursorPosition" : "12,67",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

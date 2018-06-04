@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528099051905.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EB77713A",
+    "lastKnownWriteTime" : 1528099244,
+    "last_content_update" : 1528099244664,
+    "path" : "~/Downloads/day-06/elliptical/R/planets-create.R",
+    "project_path" : "R/planets-create.R",
+    "properties" : {
+        "cursorPosition" : "19,3",
+        "scrollLine" : "5",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
